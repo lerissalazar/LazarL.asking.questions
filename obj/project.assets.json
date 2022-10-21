@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\leris\\.nuget\\packages\\": {}
+    "/Users/aishamashrah/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leris\\OneDrive\\Desktop\\CodeStack 22-23\\level.1\\challenges\\llazar.github.challenges\\asking.questions\\asking.questions.csproj",
+      "projectUniqueName": "/Users/aishamashrah/Documents/repository /LazarL.asking.questions/asking.questions.csproj",
       "projectName": "asking.questions",
-      "projectPath": "C:\\Users\\leris\\OneDrive\\Desktop\\CodeStack 22-23\\level.1\\challenges\\llazar.github.challenges\\asking.questions\\asking.questions.csproj",
-      "packagesPath": "C:\\Users\\leris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leris\\OneDrive\\Desktop\\CodeStack 22-23\\level.1\\challenges\\llazar.github.challenges\\asking.questions\\obj\\",
+      "projectPath": "/Users/aishamashrah/Documents/repository /LazarL.asking.questions/asking.questions.csproj",
+      "packagesPath": "/Users/aishamashrah/.nuget/packages/",
+      "outputPath": "/Users/aishamashrah/Documents/repository /LazarL.asking.questions/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\leris\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/aishamashrah/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }
