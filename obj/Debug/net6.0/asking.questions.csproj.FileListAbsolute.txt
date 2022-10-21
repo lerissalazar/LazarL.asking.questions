@@ -1,0 +1,15 @@
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\asking.questions\bin\Debug\net6.0\asking.questions.exe
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\asking.questions\bin\Debug\net6.0\asking.questions.deps.json
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\asking.questions\bin\Debug\net6.0\asking.questions.runtimeconfig.json
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\asking.questions\bin\Debug\net6.0\asking.questions.dll
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\asking.questions\bin\Debug\net6.0\asking.questions.pdb
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\asking.questions\obj\Debug\net6.0\asking.questions.csproj.AssemblyReference.cache
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\asking.questions\obj\Debug\net6.0\asking.questions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\asking.questions\obj\Debug\net6.0\asking.questions.AssemblyInfoInputs.cache
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\asking.questions\obj\Debug\net6.0\asking.questions.AssemblyInfo.cs
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\asking.questions\obj\Debug\net6.0\asking.questions.csproj.CoreCompileInputs.cache
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\asking.questions\obj\Debug\net6.0\asking.questions.dll
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\asking.questions\obj\Debug\net6.0\refint\asking.questions.dll
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\asking.questions\obj\Debug\net6.0\asking.questions.pdb
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\asking.questions\obj\Debug\net6.0\asking.questions.genruntimeconfig.cache
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\asking.questions\obj\Debug\net6.0\ref\asking.questions.dll
